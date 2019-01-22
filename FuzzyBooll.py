@@ -41,4 +41,3 @@ print(point.x, ":", point.y)
 
 point.move_by(10, 20)
 print(point)
-
